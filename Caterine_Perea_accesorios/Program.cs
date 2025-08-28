@@ -11,7 +11,8 @@ accesorio.Existe = true;
 accesorio.Materiales = new List<Materiales>();
 accesorio.Materiales.Add(new Materiales() { Id = 1, Nombrem = "Fimo" });
 accesorio.Materiales.Add(new Materiales() { Id = 2, Nombrem = "Perla" });
-//accesorio.calidad = new Calidades() { Id = 1, Antialergico = true };
+accesorio.calidad = new Calidades() { Id = 1, Antialergico = false };
+
 
 accesorio.Id = 2;
 accesorio.Nombre = "Aretas";
@@ -22,6 +23,7 @@ accesorio.Existe = true;
 accesorio.Materiales = new List<Materiales>();
 accesorio.Materiales.Add(new Materiales() { Id = 1, Nombrem = "Mostacilla" });
 accesorio.Materiales.Add(new Materiales() { Id = 2, Nombrem = "Base acero" });
+accesorio.calidad = new Calidades() { Id = 1, Antialergico = true };
 
 Console.WriteLine(accesorio.Nombre);
 Console.WriteLine(accesorio.tipo.Nombre);
