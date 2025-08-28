@@ -22,6 +22,14 @@ accesorio.Materiales = new List<Materiales>();
 accesorio.Materiales.Add(new Materiales() { Id = 1, Nombrem = "Mostacilla" });
 accesorio.Materiales.Add(new Materiales() { Id = 2, Nombrem = "Base acero" });
 
+Console.WriteLine(accesorio.Nombre);
+Console.WriteLine(accesorio.tipo.Nombre);
+Console.WriteLine("---------");
+foreach (var elemento in accesorio.Materiales)
+{
+    Console.WriteLine(elemento.Nombrem);
+}
+
 public class Tipos
 {
     public int Id = 0;

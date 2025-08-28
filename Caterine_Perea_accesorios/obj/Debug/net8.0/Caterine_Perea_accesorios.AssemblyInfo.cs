@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Caterine_Perea_accesorios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63db88f569b4fd96e69bbc3c04312309ec5c6f58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fa4816b94a46b66256f814e7d397a1947f9fcb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Caterine_Perea_accesorios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Caterine_Perea_accesorios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
