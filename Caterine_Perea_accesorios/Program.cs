@@ -11,6 +11,7 @@ accesorio.Existe = true;
 accesorio.Materiales = new List<Materiales>();
 accesorio.Materiales.Add(new Materiales() { Id = 1, Nombrem = "Fimo" });
 accesorio.Materiales.Add(new Materiales() { Id = 2, Nombrem = "Perla" });
+accesorio.Materiales.Add(new Materiales() { Id = 3, Nombrem = "Plastimetal" });
 accesorio.calidad = new Calidades() { Id = 1, Antialergico = false };
 
 
