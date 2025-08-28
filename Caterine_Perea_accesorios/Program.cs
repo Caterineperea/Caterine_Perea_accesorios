@@ -43,7 +43,7 @@ public class Materiales
     public String? Nombrem;
 }
 
-public class Calidad
+public class Calidades
 {
     public int Id = 0;
     public bool Antialergico = true;
@@ -58,4 +58,5 @@ public class Accesorios
     public bool Existe = true;
     public Tipos tipo = new Tipos(); //singular un solo dato
     public List<Materiales> Materiales = new List<Materiales>(); //plural lista de arreglos
+    public Calidades calidad = new Calidades();
 }
