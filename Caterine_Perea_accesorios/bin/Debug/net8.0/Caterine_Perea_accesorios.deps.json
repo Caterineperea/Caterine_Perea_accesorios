@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Caterine_Perea_accesorios/1.0.0": {
+        "runtime": {
+          "Caterine_Perea_accesorios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Caterine_Perea_accesorios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
